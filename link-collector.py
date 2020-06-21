@@ -1,6 +1,7 @@
 # @author: Şükrü Erdem Gök https://github.com/SukruGokk
 # @date: 19/06/2020
-# @os: Windows 10 Python 3.8
+# @os: Windows 10
+# @version: Python 3.8
 
 # Simple link collector with python
 
